@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+# Microsoft Office lock files (khi đang mở Word/PowerPoint)
+~$*.docx
+~$*.pptx
