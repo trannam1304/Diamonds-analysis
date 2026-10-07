@@ -1,6 +1,6 @@
-# Life Expectancy (WHO) - Data Analysis Project
+# Diamonds Analysis - Data Analysis Project
 
-Dự án phân tích thống kê và khai phá dữ liệu dựa trên tập dữ liệu **Life Expectancy (WHO)**.
+Dự án phân tích thống kê và khai phá dữ liệu dựa trên tập dữ liệu **Diamonds (Kaggle)**.
 
 ## Phân công nhiệm vụ & Timeline
 
