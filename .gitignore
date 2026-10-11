@@ -6,9 +6,13 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Virtual Environment
+# Virtual Environment (bao gồm cả .venv và venv)
+.venv/
+.venv*/
 venv/
+venv*/
 env/
+env*/
 .env
 
 # OS temporary files
